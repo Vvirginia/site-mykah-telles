@@ -1,0 +1,37 @@
+body {
+    background-color: #FDFFDD;
+    font-family: tahoma;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.profile_img {
+    flex-basis: 40%;
+}
+
+.mykah {
+    max-width: 30%;
+    max-height: 30%;
+}
+
+.post {
+    background-color: white;
+    border: solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/*Alterações após a aula de CSS*/
+article p {
+    color: #1AA88A;
+    text-indent: 25px;
+}
+
+article h3 {
+    text-align: center;
+    text-transform: uppercase ;
+    letter-spacing: 12px;
+}
